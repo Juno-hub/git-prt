@@ -5,3 +5,4 @@ backup
 backup 2 repo
 change repo orign url
 backup clone
+pull & backup
